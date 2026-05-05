@@ -1,0 +1,28 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables (API keys - never upload these!)
+.env
+
+# VS Code settings
+.vscode/
+
+# FAISS index files (large, generated locally)
+*.faiss
+*.pkl
+
+# PDF reports (generated locally)
+outputs/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
