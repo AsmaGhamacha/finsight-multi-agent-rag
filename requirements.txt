@@ -1,0 +1,23 @@
+# Core AI / LLM
+langchain==0.3.25
+langchain-community==0.3.23
+langchain-groq==0.3.2
+langgraph==0.4.1
+
+# Embeddings & Vector Store
+faiss-cpu==1.9.0
+sentence-transformers==3.4.1
+
+# Document processing
+pypdf==5.4.0
+reportlab==4.4.1
+
+# UI
+streamlit==1.45.0
+
+# Environment variables
+python-dotenv==1.1.0
+
+# Utilities
+numpy==2.2.5
+pandas==2.2.3
